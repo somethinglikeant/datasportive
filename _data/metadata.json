@@ -1,10 +1,10 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
+  "title": "Data Sportive",
+  "url": "https://www.datasportive.co.uk/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "Exploring Data in Sport",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Exploring Data in Sport",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://example.com/"
@@ -14,8 +14,7 @@
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Anthony Morgan",
+    "email": "ant@datasportive.co.uk",
   }
 }
