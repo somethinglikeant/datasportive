@@ -7,4 +7,4 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
+Originally from the mean streets of Trent Vegas in Stoke-on-Trent, now based in Warwickshire
